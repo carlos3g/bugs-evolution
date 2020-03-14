@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{24E9BA2F-595C-C35F-08EA-276D05C47DB6}") = "Tapit", "Assembly-UnityScript.unityproj", "{A05C1B88-61FE-B4B6-7B5C-B91E95DC2697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05C1B88-61FE-B4B6-7B5C-B91E95DC2697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05C1B88-61FE-B4B6-7B5C-B91E95DC2697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05C1B88-61FE-B4B6-7B5C-B91E95DC2697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05C1B88-61FE-B4B6-7B5C-B91E95DC2697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
